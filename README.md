@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniela</h1>
 <h3 align="center">A passionate systems engineering student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=desparza13&label=Profile%20views&color=0e75b6&style=flat" alt="desparza13" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desparza13" alt="desparza13" /></a> </p>
-
-- 📖 Getting my Computing Systems Engineering degree at **ITESO**
+- 📖 Getting my Computer Systems Engineering degree at **ITESO**
 - 👟 I’m currently working as a **Digital Intern at Nike**
 
 - 👩🏻‍💻 This summer I'll be a **Meta University Intern**
@@ -34,3 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desparza13&" alt="desparza13" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=desparza13&label=Profile%20views&color=0e75b6&style=flat" alt="desparza13" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desparza13" alt="desparza13" /></a> </p>
