@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desparza13" alt="desparza13" /></a> </p>
 
+- 📖 Getting my Computing Systems Engineering degree at **ITESO**
 - 👟 I’m currently working as a **Digital Intern at Nike**
 
-- 🌱 I’m currently learning **Java, C++, C, Python, SQL, HTML, CSS, JavaScript**
-
 - 👩🏻‍💻 This summer I'll be a **Meta University Intern**
+
+- 🌱 I’m currently learning **-Java, -C++, C,  Python, SQL, HTML, CSS, JavaScript**
 
 - 👨‍💻 All of my projects are available at [WIP](WIP)
 
@@ -17,7 +18,7 @@
 
 - 📫 How to reach me **desparzaespinosa@gmail.com**
 
-- 📄 Know about my experiences [https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4b171ee9-92d3-4170-bbde-81096be7c3f3/DanielaResume.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220505%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220505T191010Z&X-Amz-Expires=86400&X-Amz-Signature=ac24fa0ca291ccfd4a1d3e940932746b5dfee429f38e3463e0133c2af0e424b9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22DanielaResume.pdf%22&x-id=GetObject](Resume)
+- 📄 Know about my experiences [Resume](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4b171ee9-92d3-4170-bbde-81096be7c3f3/DanielaResume.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220505%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220505T191010Z&X-Amz-Expires=86400&X-Amz-Signature=ac24fa0ca291ccfd4a1d3e940932746b5dfee429f38e3463e0133c2af0e424b9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22DanielaResume.pdf%22&x-id=GetObject)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
