@@ -2,9 +2,9 @@
 <h3 align="center">A passionate systems engineering student</h3>
 
 - 📖 Getting my Computer Systems Engineering degree at **ITESO**
-- 👟 I’m currently working as a **Digital Intern at Nike**
+- 👟 Formerly a **Digital Intern at Nike**
 
-- 👩🏻‍💻 This summer I'll be a **Meta University Intern**
+- 👩🏻‍💻 Currently a **Meta University Intern**
 
 - 🌱 I’m currently learning **-Java, -C++, C,  Python, SQL, HTML, CSS, JavaScript**
 
