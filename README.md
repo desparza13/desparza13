@@ -6,6 +6,8 @@
 
 - 👩🏻‍💻 Formerly a **Meta University Intern**
 
+- 👩🏻‍💻 Incoming **Software Engineer Intern @ Microsoft**
+
 - 🌱 I’m currently learning **-Java, -C++, C,  Python, SQL, HTML, CSS, JavaScript**
 
 - 👨‍💻 All of my projects are available at [WIP](WIP)
