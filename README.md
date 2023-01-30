@@ -2,11 +2,11 @@
 <h3 align="center">A passionate systems engineering student</h3>
 
 - 📖 Getting my Computer Systems Engineering degree at **ITESO**
-- 👟 Currently a **Digital Commerce Intern at Nike on the Enterprise Data Analytics Team**
+- 👟 Currently a **Digital Commerce Intern at Nike on the Enterprise Data Analytics Team** since 2021
 
-- 👩🏻‍💻 Formerly a **Meta University Intern**
+- 👩🏻‍💻 Formerly a **Meta University Intern 2022**
 
-- 👩🏻‍💻 Incoming **Software Engineer Intern @ Microsoft**
+- 👩🏻‍💻 Incoming **Software Engineer Intern @ Microsoft 2023**
 
 - 🌱 I’m currently learning **-Java, -C++, C,  Python, SQL, HTML, CSS, JavaScript**
 
